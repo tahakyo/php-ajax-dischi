@@ -8,7 +8,9 @@ img {
 main {
   height: 100%;
 }
-
+.track_card h3 {
+  color: white;
+}
 /* .track_card {
   height: 375px;
   width: 200px;
